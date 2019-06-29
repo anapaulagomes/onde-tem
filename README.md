@@ -49,6 +49,11 @@ Para rodar o servidor mostrando os rascunhos execute:
 hugo server -D
 ```
 
+Divirta-se: http://localhost:1313
+
+### Visualizando a página 404.html localmente
+
+Acesse: http://localhost:1313/404.html
 
 ## Bonus
 
