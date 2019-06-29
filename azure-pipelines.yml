@@ -14,4 +14,5 @@ steps:
 - script: |
     hugo check
     hugo
+    echo $(hugo version)
   displayName: 'Check and build'
