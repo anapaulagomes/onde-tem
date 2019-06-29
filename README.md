@@ -1,5 +1,7 @@
 # Onde Tem
 
+[![Build Status](https://dev.azure.com/apgomes88/Onde%20Tem/_apis/build/status/anapaulagomes.onde-tem?branchName=master)](https://dev.azure.com/apgomes88/Onde%20Tem/_build/latest?definitionId=5&branchName=master)
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1bea608d-170b-4713-aebc-4c7c2f5bad4c/deploy-status)](https://app.netlify.com/sites/goofy-noyce-0401ef/deploys)
 
 Para atualizar esse site você precisa ter o [Hugo](https://gohugo.io/getting-started/quick-start/) instalado.
@@ -57,7 +59,7 @@ Divirta-se: http://localhost:1313
 
 Acesse: http://localhost:1313/404.html
 
-## Bonus
+## Bônus
 
 Sugestão de editores para markdown:
 
