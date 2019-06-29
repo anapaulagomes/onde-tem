@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Produtos on Onde Tem</title>
+    <link>https://ondetem.de/produtos/</link>
+    <description>Recent content in Produtos on Onde Tem</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 29 Jun 2019 09:25:06 +0200</lastBuildDate>
+    
+	<atom:link href="https://ondetem.de/produtos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tapioca</title>
+      <link>https://ondetem.de/produtos/tapioca/</link>
+      <pubDate>Sat, 29 Jun 2019 09:25:06 +0200</pubDate>
+      
+      <guid>https://ondetem.de/produtos/tapioca/</guid>
+      <description>Muito ruim mas não temos opção
+Fonte da imagem</description>
+    </item>
+    
+    <item>
+      <title>Leite Condensado</title>
+      <link>https://ondetem.de/produtos/leite-condensado/</link>
+      <pubDate>Sat, 29 Jun 2019 08:48:39 +0200</pubDate>
+      
+      <guid>https://ondetem.de/produtos/leite-condensado/</guid>
+      <description>Tem sim, você acha em qualquer Rewe.
+Marca: Dovgan
+Fonte da imagem</description>
+    </item>
+    
+  </channel>
+</rss>

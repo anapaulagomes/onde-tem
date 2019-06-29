@@ -1,5 +1,7 @@
 # Onde Tem
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1bea608d-170b-4713-aebc-4c7c2f5bad4c/deploy-status)](https://app.netlify.com/sites/goofy-noyce-0401ef/deploys)
+
 Para atualizar esse site você precisa ter o [Hugo](https://gohugo.io/getting-started/quick-start/) instalado.
 
 ### Como adicionar um novo produto
