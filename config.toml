@@ -1,4 +1,4 @@
-baseURL = "https://ondetem.netlify.com"
+baseURL = "https://ondetem.de"
 languageCode = "pt-br"
 title = "Onde Tem"
 theme = "hugo-creative-portfolio-theme"
