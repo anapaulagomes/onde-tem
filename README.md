@@ -2,9 +2,10 @@
 
 [![Build Status](https://dev.azure.com/apgomes88/Onde%20Tem/_apis/build/status/anapaulagomes.onde-tem?branchName=master)](https://dev.azure.com/apgomes88/Onde%20Tem/_build/latest?definitionId=5&branchName=master)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1bea608d-170b-4713-aebc-4c7c2f5bad4c/deploy-status)](https://app.netlify.com/sites/goofy-noyce-0401ef/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1bea608d-170b-4713-aebc-4c7c2f5bad4c/deploy-status)](https://app.netlify.com/sites/ondetem/deploys)
 
 Para atualizar esse site você precisa ter o [Hugo](https://gohugo.io/getting-started/quick-start/) instalado.
+Depois de ter o ambiente preparado, siga as instruções para [configuração do tema](https://gohugo.io/themes/installing-and-using-themes/#install-a-single-theme). Nós estamos usando o [hugo-creative-portfolio-theme](https://themes.gohugo.io/hugo-creative-portfolio-theme/).
 
 ### Como adicionar um novo produto
 
