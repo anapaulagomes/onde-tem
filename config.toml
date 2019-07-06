@@ -7,7 +7,7 @@ googleAnalytics = "UA-143396256-1"
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "default"
+  style = "green"
   description = "Onde encontrar produtos amados pelos brasileiros na Alemanha"
   copyright = "&copy;2019 A Firma GmbH"
   sidebarAbout = [
