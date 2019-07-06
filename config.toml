@@ -2,7 +2,7 @@ baseURL = "https://ondetem.de"
 languageCode = "pt-br"
 title = "Onde Tem"
 theme = "hugo-creative-portfolio-theme"
-googleAnalytics = ""
+googleAnalytics = "UA-143396256-1"
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
