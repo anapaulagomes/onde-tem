@@ -8,7 +8,7 @@ weight: 0
 ---
 
 <img src="../../img/produtos/farinha-de-mandioca-01.png" alt="drawing" width="200"/>
-<img src="../../img/produtos/farinha-de-mandioca-02.png" alt="drawing" width="200"/>
+<img src="../../img/produtos/farinha-de-mandioca-02.png" alt="Imagem da farinha Gari de 400 gramas" width="200"/>
 
 Em alemão: Maniokmehl
 
