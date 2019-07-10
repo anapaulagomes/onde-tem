@@ -7,7 +7,7 @@ showonlyimage: false
 weight: 1
 ---
 
-Muito ruim mas não temos opção
+<!--more-->Muito ruim mas não temos opção
 
 ---
 
