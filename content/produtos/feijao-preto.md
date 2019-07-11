@@ -8,6 +8,7 @@ weight: 0
 ---
 
 <!--more-->
+
 <img src="../../img/produtos/feijao-preto-02.jpg" alt="saco de feijão preto da marca Rapunzel de 500g" width="300"/>
 Em alemão: Bohnen schwarz
 
