@@ -7,7 +7,9 @@ showonlyimage: false
 weight: 0
 ---
 
-<!--more--><img src="../../img/produtos/farinha-de-mandioca-01.png" alt="Pacote de farinha Gari de 500g" width="200"/>
+<!--more-->
+
+<img src="../../img/produtos/farinha-de-mandioca-01.png" alt="Pacote de farinha Gari de 500g" width="200"/>
 <img src="../../img/produtos/farinha-de-mandioca-02.png" alt="Pacote de farinha Gari de 400g" width="200"/>
 
 Em alemão: Maniokmehl
