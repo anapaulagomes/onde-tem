@@ -8,7 +8,9 @@ weight: 0
 ---
 
 
-<!--more-->Em alemão: Tafelspitz  
+<!--more-->
+
+Em alemão: Tafelspitz
 
 O corte picanha na Alemanha é o Tafelspitz. Ele é encontrado facilmente mas geralmente sem a gordura, pois na culinária alemã essa carne é feita cozida e não grelhada.
 A Tefelspitz com a gordura, aí sim adequeada para churrasco, é encontrada frequentemente no supermercado Rewe, na área de carnes embaladas a vácuo. O preço médio é 10 € o quilo.
