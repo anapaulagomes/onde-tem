@@ -9,8 +9,9 @@ weight: 0
 
 <!--more-->
 
-<img src="../../img/produtos/feijao-preto-02.jpg" alt="saco de feijão preto da marca Rapunzel de 500g" width="300"/>
 Em alemão: Bohnen schwarz
+
+<img src="../../img/produtos/feijao-preto-02.jpg" alt="saco de feijão preto da marca Rapunzel de 500g" width="300"/>
 
 O feijão preto natural é vendido nas redes de supermercados orgânicos. A marca mais comum é Rapunzel.
 No Bio Company também pode ser vendido a granel (se esse tipo de compra estiver disponível na loja).

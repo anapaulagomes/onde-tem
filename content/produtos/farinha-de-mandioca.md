@@ -9,10 +9,10 @@ weight: 0
 
 <!--more-->
 
+Em alemão: Maniokmehl
+
 <img src="../../img/produtos/farinha-de-mandioca-01.png" alt="Pacote de farinha Gari de 500g" width="200"/>
 <img src="../../img/produtos/farinha-de-mandioca-02.png" alt="Pacote de farinha Gari de 400g" width="200"/>
-
-Em alemão: Maniokmehl
 
 Uma farinha de mandioca comum é encontrada em mercados asiáticos. A marca mais comum é Gari, da TRS Asia's Finest Foods. 
 O pacote é de 500g e o preço é em torno de 1,5€ e 2,5€.

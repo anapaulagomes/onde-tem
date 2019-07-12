@@ -9,7 +9,10 @@ weight: 0
 
 <!--more-->
 
+Em alemão: Grillkäse
+
 <img src="../../img/produtos/queijo-coalho-02.jpg" alt="mix de queijos coalhos da marca gazi" width="300"/>
+
 O queijo similar ao queijo coalho é o Grillkäse, que vende em todos os mercados e está perto dos itens para churrasco.
 Ele pode possui a versão temperada com ervas ou pimenta. Custa em torno de 2 € um pacote com dois queijos de 100g cada. Possui também versões maiores com mais pedaços de 100g. 
 
