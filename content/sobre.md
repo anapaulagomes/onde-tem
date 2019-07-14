@@ -14,4 +14,4 @@ Por enquanto atuamos apenas em Berlim.
 Sentiu falta de algo? Quer fazer uma parceria com a gente? Anunciar um produto?
 
 Diga _oi_ pra gente no [mediz@ondetem.de](mailto:mediz@ondetem.de)
-ou veja onde nos encontrar [aqui]({{< ref "contato.md" >}})
+ou veja onde nos encontrar [aqui]({{< ref "contato.md" >}}).
