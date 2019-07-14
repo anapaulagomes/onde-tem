@@ -8,4 +8,4 @@ draft: false
 
 > Me liga, me manda um telegrama, uma carta de amor...
 
-![](https://c-sf.smule.com/sf/s90/arr/c9/2f/fcb8f3c2-864e-4a3d-b147-5640412031a5_512.jpg)
+<img src="../../img/exaltasamba-telegrama.jpg" alt="Imagem do álbum Telegrama do grupo Exaltasamba" />
