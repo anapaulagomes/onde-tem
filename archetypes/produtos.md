@@ -11,7 +11,7 @@ weight: 0
 
 **Em alemão:**
 
-**Similares:** [Exemplo]({{< ref "produtos/exemplo.md" >}}), [Outro exemplo]({{< ref "produtos/exemplo.md" >}})
+_Produto **idêntico** ou **semelhante** ao obtido no Brasil_
 
 Adicione a descrição aqui
 
@@ -23,11 +23,9 @@ Adicione a descrição aqui
 
 #### Onde encontrar:
 
+* Lugar 1 (disponibilidade baixa)
+* Lugar 2 (disponibilidade alta)
 * 
-* 
-* 
-
-**Disponibilidade:** alta/baixa
 
 #### Veja também:
 
