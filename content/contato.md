@@ -4,7 +4,8 @@ date: 2019-06-29T08:48:39+02:00
 draft: false
 ---
 
-[olar@ondetem.de](mailto:olar@ondetem.de)
+Pra falar com a gente você pode mandar um email no [mediz@ondetem.de](mailto:mediz@ondetem.de)
+ou mandar uma mensagem no nosso Instagram [@ondetememberlim](https://instagram.com/ondetememberlim).
 
 > Me liga, me manda um telegrama, uma carta de amor...
 
