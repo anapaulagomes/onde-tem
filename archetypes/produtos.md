@@ -33,3 +33,7 @@ Adicione a descrição aqui
 #### Veja também:
 
 - [Exemplo]({{< ref "produtos/exemplo.md" >}})
+
+---
+
+Fonte das imagens:
