@@ -17,6 +17,9 @@ Adicione a descrição aqui
 
 **Marcas:**
 
+- Marca 1
+- Marca 2
+
 <img src="../../img/produtos/exemplo.jpg" alt="Imagem da Ines Brasil" width="700"/>
 
 **Preço médio:** XX €
