@@ -14,7 +14,7 @@ weight: 0
 _Produto **semelhante** ao obtido no Brasil_
 
 O Sahne Schmelzkäsezubereitung é um queijo cremoso encontrado nos supermercados da Alemanha que parece requeijão.
-O requeijão também pode ser feito de modo caseiro, a receita pode ser encontrada [aqui](https://www.panelinha.com.br/receita/Requeijao-caseiro)
+O requeijão também pode ser feito de modo caseiro, a receita pode ser encontrada [aqui](https://www.panelinha.com.br/receita/Requeijao-caseiro).
 
 **Marcas:**
 
