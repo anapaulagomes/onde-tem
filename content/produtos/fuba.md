@@ -13,7 +13,7 @@ weight: 0
 
 _Produto **idêntico** ao obtido no Brasil_
 
-Fubá é uma farinha obtida a partir da moagem do grão de milho. A diferença entre Farinha de milho, fubá e fubá mimoso é no grau da moagem
+Fubá é uma farinha obtida a partir da moagem do grão de milho. A diferença entre farinha de milho, fubá e fubá mimoso é no grau da moagem.
 O fubá mimoso é o mais fino, o fubá comum é uma moagem média.
 
 **Marcas:**
