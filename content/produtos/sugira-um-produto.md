@@ -2,8 +2,8 @@
 title: "Sugira um Produto"
 date: 2019-08-05T13:02:53+02:00
 draft: false
-image: "img/produtos/exemplo.jpg"
-showonlyimage: false
+image: "img/sugira-um-produto.png"
+showonlyimage: true
 weight: 0
 ---
 
