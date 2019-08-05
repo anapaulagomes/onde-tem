@@ -2,7 +2,7 @@
 title: "Açaí"
 date: 2019-08-05T07:56:17+02:00
 draft: false
-image: "img/produtos/acai-01jpg"
+image: "img/produtos/acai-01.jpg"
 showonlyimage: false
 weight: 0
 ---
