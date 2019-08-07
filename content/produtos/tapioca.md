@@ -9,7 +9,9 @@ weight: 0
 
 <!--more-->
 
-A mais popular é a goma pronta para tapioca Terrinha. Você pode também tentar fazer a partir do polvilho doce asiático.
+A mais popular é a goma pronta para tapioca Terrinha. 
+
+Você pode também tentar fazer a partir do polvilho doce asiático. O processo de hidratação do polvilho está descrito nesse [link](https://paladar.estadao.com.br/noticias/receita,tapioca-feita-em-casa-com-polvilho-doce,70001638845).
 
 **Marcas:**
 
