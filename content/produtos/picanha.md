@@ -11,7 +11,7 @@ weight: 0
 
 **Em alemão:** Tafelspitz
 
-O corte picanha na Alemanha é o Tafelspitz. Ele é encontrado facilmente mas geralmente sem a gordura, pois na culinária alemã essa carne é feita cozida e não grelhada. A Tefelspitz com a gordura, adequada para churrasco, pode ser encontrada no supermercado Rewe, na área de carnes embaladas a vácuo.
+O corte picanha na Alemanha é o Tafelspitz. Ele é encontrado facilmente mas geralmente sem a gordura, pois na culinária alemã essa carne é feita cozida e não grelhada. A Tafelspitz com a gordura, adequada para churrasco, pode ser encontrada no supermercado Rewe, na área de carnes embaladas a vácuo.
 
 <img src="../../img/produtos/picanha-03.jpeg" alt="Imagem de uma picanha crua" width="700"/>
 
