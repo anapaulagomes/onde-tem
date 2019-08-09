@@ -9,7 +9,7 @@ weight: 0
 
 <!--more-->
 
-**Em alemão:** Açaí (Acai) Püree
+**Em alemão:** Açaí (Acai) Püree / Fruchtpüree
 
 _Produto **idêntico** ao obtido no Brasil_
 
@@ -27,12 +27,14 @@ Alguns cafés servem o bowl de açaí, voltado como alimento fitness como:
 
 - Joju fruits
 - The Rainforest by Pamela Reif
+- Bio Acai Attila Hildmann Collection
 
 <img src="../../img/produtos/acai-02.jpg" alt="Imagem da embalagem de açaí The Rainforest de 2 pacotes de 100g" width="500"/>
 <img src="../../img/produtos/acai-03.jpg" alt="Imagem da embalagem de açaí Joju Fruits de 24 pacotes de 100g" width="500"/>
+<img src="../../img/produtos/acai-04.jpg" alt="Imagem da embalagem de açaí Bio Acai de 4 pacotes de 100g" width="450"/>
 
 
-**Preço médio:** 4 € por 200g
+**Preço médio:** 1,50 - 2 € por 100g
 
 #### Onde encontrar:
 
@@ -40,6 +42,7 @@ Alguns cafés servem o bowl de açaí, voltado como alimento fitness como:
 * Alnatura
 * Rewe (disponibilidade baixa)
 * [Pamela Reif loja online] (https://en.therainforestco.de/) (disponibilidade alta)
+* Veganz (disponibilidade alta) - [Friedrichshain, Kreuzberg e Prenzlauer Berg] (https://veganz.de/en/stores/)
 
 #### Veja também:
 
