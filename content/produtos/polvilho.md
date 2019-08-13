@@ -1,7 +1,7 @@
 ---
 title: "Polvilho"
 date: 2019-08-12T21:27:12+02:00
-draft: true
+draft: false
 image: "img/produtos/polvilho-01.jpg"
 showonlyimage: false
 weight: 0
