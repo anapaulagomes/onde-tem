@@ -1,5 +1,5 @@
 ---
-title: "Mandioca / Aimpim"
+title: "Mandioca / Aipim"
 date: 2019-08-15T12:54:32+02:00
 draft: false
 image: "img/produtos/mandioca-01.jpeg"
@@ -14,7 +14,7 @@ weight: 0
 _Produto **idêntico** ao obtido no Brasil_
 
 A mandioca pode ser encontrada nos mercados africanos (_in natura_, com casca) ou 
-em mercados asiáticos porém congelada.
+em mercados asiáticos.
 
 **Marcas:**
 
@@ -26,7 +26,8 @@ em mercados asiáticos porém congelada.
 
 #### Onde encontrar:
 
-* Mercados asiáticos (disponibilidade alta)
+* Mercados asiáticos - congelada (disponibilidade alta)
+* Mercados asiáticos - _in natura_ (disponibilidade baixa)
 
 #### Veja também:
 
