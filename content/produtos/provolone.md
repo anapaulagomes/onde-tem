@@ -14,7 +14,7 @@ weight: 0
 _Produto **semelhante** ao obtido no Brasil_
 
 O provolone é um queijo de origem italiano e, apesar de não ser sempre defumado, a maioria do provolone comercializado no Brasil passa por esse processo.
-O Rauchkäse é mais fácil e barato de encontrar que o provolone italiano e, por também ser defumado, possui um sabor semelhante ao provolone brasileiro.
+O *Rauchkäse* é mais fácil e barato de encontrar que o provolone italiano e, por também ser defumado, possui um sabor semelhante ao provolone brasileiro.
 
 **Marcas:**
 
