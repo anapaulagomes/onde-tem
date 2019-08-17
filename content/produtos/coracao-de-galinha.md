@@ -9,7 +9,7 @@ weight: 0
 
 <!--more-->
 
-**Em alemão:** Hänchen-herzen
+**Em alemão:** Hähnchen-herzen / Hähnchenherzen
 
 _Produto **idêntico** ao obtido no Brasil_
 
