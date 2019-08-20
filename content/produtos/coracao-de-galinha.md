@@ -13,7 +13,7 @@ weight: 0
 
 _Produto **idêntico** ao obtido no Brasil_
 
-O coração de galinha é encontrado entre as carnes frescas vendidas nos supermercados na Alemanha.
+O coração de galinha é encontrado entre as carnes frescas vendidas em alguns supermercados na Alemanha.
 
 
 <img src="../../img/produtos/coracao-de-galinha-02.jpg" alt="Imagem da bandeja de coração de galinha no supermercado" width="600"/>
@@ -24,6 +24,8 @@ O coração de galinha é encontrado entre as carnes frescas vendidas nos superm
 
 * Lidl (disponibilidade alta)
 * Kaufland (disponibilidade alta)
+* Rewe (disponibilidade baixa)
+* Netto (disponibilidade baixa)
 
 #### Veja também:
 
