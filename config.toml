@@ -45,3 +45,6 @@ googleAnalytics = "UA-143396256-1"
   [params.social]
   email         = "mediz@ondetem.de"
   instagram     = "https://instagram.com/ondetememberlim"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

@@ -5,6 +5,7 @@ draft: false
 image: "img/produtos/queijo-coalho-01.jpg"
 showonlyimage: false
 weight: 0
+tags: ["queijo"]
 ---
 
 <!--more-->
