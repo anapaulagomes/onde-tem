@@ -1,4 +1,4 @@
-name: OndeTem CI
+name: Test & Build
 
 on: [push]
 
@@ -11,10 +11,6 @@ jobs:
       uses: peaceiris/actions-hugo@v2.2.1
       with:
         hugo-version: 'latest'
-    - name: Compress Images
-      uses: docker://calibreapp/github-image-actions
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Build
       run: |
         hugo check
