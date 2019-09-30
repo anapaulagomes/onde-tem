@@ -12,7 +12,9 @@ jobs:
       with:
         hugo-version: 'latest'
     - name: Compress Images
-      uses: calibreapp/image-actions@1.0.0
+      uses: docker://calibreapp/github-image-actions
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Build
       run: |
         hugo check
