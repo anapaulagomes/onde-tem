@@ -1,0 +1,20 @@
+name: OndeTem CI
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2.2.1
+      with:
+        hugo-version: 'latest'
+    - name: Compress Images
+      uses: calibreapp/image-actions@1.0.0
+    - name: Build
+      run: |
+        hugo check
+        hugo --gc --minify --cleanDestinationDir
+        echo $(hugo version)
