@@ -1,0 +1,18 @@
+name: Test & Build
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2.2.1
+      with:
+        hugo-version: 'latest'
+    - name: Build
+      run: |
+        hugo check
+        hugo --gc --minify --cleanDestinationDir
+        echo $(hugo version)
