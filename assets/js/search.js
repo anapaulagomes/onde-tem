@@ -38,10 +38,6 @@ var fuseOptions = {
       weight: 0.8
     },
     {
-      name: "content",
-      weight: 0.3
-    },
-    {
       name: "tags",
       weight: 0.6
     }
@@ -71,9 +67,7 @@ function executeSearch(searchQuery) {
     var pages = data;
     var fuse = new Fuse(pages, fuseOptions);
     var result = fuse.search(searchQuery);
-    if (result.length > 0) {
-      populateResults(result);
-    }
+    populateResults(result);
   });
 }
 
