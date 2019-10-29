@@ -85,7 +85,7 @@ function populateResults(result) {
   });
 
   let products = document.getElementsByClassName(productClass);
-  for (var index =0; index < products.length; index++) {
+  for (var index = 0; index < products.length; index++) {
     const product = products[index];
     const permalink = product.getElementsByTagName("a")[0].href;
   
