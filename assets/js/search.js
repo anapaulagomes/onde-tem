@@ -9,6 +9,20 @@ $("#search-query").on("change keyup", function(){
   }
 })
 
+if (!window.productPositions) {
+  const items = document.getElementsByClassName("masonry-item");
+  let productPositions = {}
+  for (var index = 0; index < items.length; index++) {
+    const item = items[index];
+    productPositions[index] = {
+      "position": item.style["position"],
+      "left": item.style["left"],
+      "top": item.style["top"]
+    }
+  }
+  window.productPositions = productPositions;
+}
+
 const productClass = "masonry-item";
 var fuseOptions = {
   shouldSort: true,
@@ -76,7 +90,6 @@ function populateResults(result) {
     const permalink = product.getElementsByTagName("a")[0].href;
   
     if (!productsToBeKept.includes(permalink)) {
-      // FIXME add a better display to the results
       product.style.display = "none";
     }
   
@@ -93,5 +106,8 @@ function showAll() {
   for (var index =0; index < products.length; index++) {
     const product = products[index];
     product.style.display = "grid";
+    product.style.position = window.productPositions[index]["position"];
+    product.style.left = window.productPositions[index]["left"];
+    product.style.top = window.productPositions[index]["top"];
   }
 }
