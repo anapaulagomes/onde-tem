@@ -5,6 +5,7 @@ draft: false
 image: "img/produtos/provolone-01.jpeg"
 showonlyimage: false
 weight: 0
+tags: ["queijo"]
 ---
 
 <!--more-->
